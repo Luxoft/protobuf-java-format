@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+# protobuf-java-format
+
 Fork from http://code.google.com/p/protobuf-java-format/
 
 [![Build Status](https://travis-ci.org/bivas/protobuf-java-format.svg?branch=master)](https://travis-ci.org/bivas/protobuf-java-format)
@@ -48,5 +49,3 @@ HtmlFormat htmlFormat = new HtmlFormat();
 String asHtml = htmlFormat.printToString(someProto);
 ```
 =======
-# protobuf-java-format
->>>>>>> 2d330cb... Initial commit
