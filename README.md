@@ -10,7 +10,7 @@ See http://bivas.github.io/protobuf-java-format/ for more information.
 
 Provide serialization and de-serialization of different formats based on Google’s protobuf Message. Enables overriding the default (byte array) output to text based formats such as XML, JSON and HTML.
 
-##Example
+## Example
 For XML output, use XmlFormat
 
 ```java
